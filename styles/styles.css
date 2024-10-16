@@ -1,0 +1,64 @@
+
+
+
+body
+{
+    background-color: rgb(17, 16, 16);
+}
+
+.centerText
+{
+    display: flex;
+    justify-content: center;
+}
+
+.indentText
+{
+    text-indent: 50px;
+}
+
+.indentLink
+{
+    font-size: 1.25rem;
+    padding-left: 150px;
+}
+
+h1
+{
+    font-size: 50px;
+    color: rgb(238, 241, 10);  
+}
+
+h2
+{
+    color: rgba(216, 88, 216, 0.723);
+}
+
+h3
+{
+    color:white;
+}
+
+.picSize
+{
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: bisque;
+}
+
+a
+{
+    color: aliceblue;
+}
+
+li
+{
+    color: bisque;
+    font-size: 1.25rem;
+}
